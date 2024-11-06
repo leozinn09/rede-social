@@ -29,6 +29,7 @@ body {
     text-align: center;
     padding: lpx;
    }
+
    nav a {
     text-decoration: none;
     color:aqua(--bg-color);
@@ -41,13 +42,7 @@ body {
     transform: scale(0.90);
     transition: transform 0.1s;
    }
-   footer {
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    background-color: black(--primary-color);
-    color: darkorange(--bg-color);
-   }
+   
    footer {
     display: flex;
     align-items: center;
